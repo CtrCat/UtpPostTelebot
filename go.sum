@@ -1,0 +1,6 @@
+github.com/Sagleft/utopialib-go v1.2.1 h1:RDKFrKebVvkhG9q2uiKBC/3YRA02uvJI+NsettFpVcc=
+github.com/Sagleft/utopialib-go v1.2.1/go.mod h1:4/F9ivBk17cBHldczN6R60vyYjAwzqL/0fXq5elFXfo=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.0 h1:BtndtqqCQfPsL2uMkYmduOip1+dPcSmh40l82mBUPKk=
+github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.0/go.mod h1:A2S0CWkNylc2phvKXWBBdD3K0iGnDBGbzRpISP2zBl8=
+gopkg.in/grignaak/tribool.v1 v1.0.0-20150312065122-d6bb19d816df h1:SCh+kVSG+MN/pU/l0/3ehkc3i9T+G6AQS6jEoxM4ddY=
+gopkg.in/grignaak/tribool.v1 v1.0.0-20150312065122-d6bb19d816df/go.mod h1:ikoZVciJt+u3It4kEk89OVqIKHPU9BjrgkHSr++TA2w=
